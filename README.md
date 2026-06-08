@@ -38,11 +38,6 @@ Watch the simulator in action and see the 'Vibe Coding' development process in t
 3. **Run the script:**
    ```bash
    python 6_axis_articulated_Robot_Simulator.py
-```
-
-
-
----
 
 ### 🌐 Multi-Language Support (20 Languages)
 
