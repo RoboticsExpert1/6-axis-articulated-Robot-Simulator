@@ -35,12 +35,9 @@ Watch the simulator in action and see the 'Vibe Coding' development process in t
 2. **Install the required GUI and visualization libraries:**
    ```bash
    pip install numpy matplotlib PyQt5
-
-```
-
 3. **Run the script:**
-```bash
-python 6_axis_articulated_Robot_Simulator.py
+   ```bash
+   python 6_axis_articulated_Robot_Simulator.py
 ```
 
 
